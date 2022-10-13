@@ -1,4 +1,5 @@
- while true do
+speed = 150
+while true do
 	for _, child in ipairs(workspace.Cars:GetChildren()) do
 		if child:IsA("Part")then
 			child.Driver.MaxSpeed = speed
