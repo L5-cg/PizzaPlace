@@ -17,4 +17,4 @@ while true do
 	end
 	wait(0.1)
 end 
--- i dont know what im doing lolololol
+-- i dont know what im doing lololololol
